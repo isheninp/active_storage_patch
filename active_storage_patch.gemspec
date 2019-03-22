@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.version     = ActiveStoragePatch::VERSION
   spec.authors     = ["Pavel Ishenin"]
   spec.email       = ["isheninp@gmail.com"]
-  spec.homepage    = "TODO"
-  spec.summary     = "TODO: Summary of ActiveStoragePatch."
-  spec.description = "TODO: Description of ActiveStoragePatch."
+  spec.homepage    = "https://github.com/isheninp/active_storage_patch"
+  spec.summary     = "Removes redirects"
+  spec.description = "Removes redirects"
   spec.license     = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
