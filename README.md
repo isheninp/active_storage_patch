@@ -1,14 +1,11 @@
 # ActiveStoragePatch
-Short description and motivation.
-
-## Usage
-How to use my plugin.
+Removes 302 redirects
 
 ## Installation
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'active_storage_patch'
+gem 'active_storage_patch', github: 'isheninp/active_storage_patch'
 ```
 
 And then execute:
@@ -20,9 +17,6 @@ Or install it yourself as:
 ```bash
 $ gem install active_storage_patch
 ```
-
-## Contributing
-Contribution directions go here.
 
 ## License
 The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
